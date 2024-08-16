@@ -1,0 +1,13 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "iam:ListUsers",
+                "iam:GetUser"
+            ],
+            "Resource": "arn:aws:iam::845742683201:user/*"
+        }
+    ]
+}

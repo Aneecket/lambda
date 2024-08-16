@@ -21,7 +21,7 @@
                 "ses:SendEmail",
                 "ses:SendRawEmail"
             ],
-            "Resource": "*"
+            "Resource": "arn:aws:ses:ap-south-1:431018766542:identity/gridpoint.live"
         }
     ]
 }
